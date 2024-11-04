@@ -1,1 +1,1 @@
-# fyp
+Run the python script
